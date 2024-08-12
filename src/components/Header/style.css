@@ -1,0 +1,154 @@
+.header {
+  align-items: center;
+  background-color: var(--styales-base-base-black);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--styales-neutrals-neutrals600);
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 188px;
+  position: relative;
+  width: 1600px;
+}
+
+.header .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.header .LOGO {
+  height: 52px;
+  position: relative;
+  width: 52px;
+}
+
+.header .overlap-group {
+  height: 52px;
+  position: relative;
+}
+
+.header .ellipse {
+  height: 19px;
+  left: 31px;
+  position: absolute;
+  top: 3px;
+  width: 19px;
+}
+
+.header .ellipse-2 {
+  height: 12px;
+  left: 9px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.header .ellipse-3 {
+  height: 20px;
+  left: 38px;
+  position: absolute;
+  top: 23px;
+  width: 12px;
+}
+
+.header .polygon {
+  height: 11px;
+  left: 19px;
+  position: absolute;
+  top: 20px;
+  width: 12px;
+}
+
+.header .subtract {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 41px;
+}
+
+.header .subtract-2 {
+  height: 11px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.header .div-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.header .text-wrapper {
+  color: var(--styales-base-base-white);
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .nav-menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 53px;
+  position: relative;
+}
+
+.header .nav-iteam {
+  position: relative !important;
+}
+
+.header .nav-iteam-instance {
+  left: 2px !important;
+}
+
+.header .design-component-instance-node {
+  color: var(--styales-primary-primary) !important;
+  font-family: var(--desktop-body-content-bold-font-family) !important;
+  font-size: var(--desktop-body-content-bold-font-size) !important;
+  font-style: var(--desktop-body-content-bold-font-style) !important;
+  font-weight: var(--desktop-body-content-bold-font-weight) !important;
+  letter-spacing: var(--desktop-body-content-bold-letter-spacing) !important;
+  line-height: var(--desktop-body-content-bold-line-height) !important;
+}
+
+.header .text-wrapper-2 {
+  color: var(--styales-secondary-secondary);
+  font-family: var(--desktop-body-content-regular-font-family);
+  font-size: var(--desktop-body-content-regular-font-size);
+  font-style: var(--desktop-body-content-regular-font-style);
+  font-weight: var(--desktop-body-content-regular-font-weight);
+  letter-spacing: var(--desktop-body-content-regular-letter-spacing);
+  line-height: var(--desktop-body-content-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .design-component-instance-node-2 {
+  flex: 0 0 auto !important;
+}
+
+.header .nav-iteam-2 {
+  color: var(--styales-secondary-secondary) !important;
+  font-family: var(--desktop-body-content-regular-font-family) !important;
+  font-size: var(--desktop-body-content-regular-font-size) !important;
+  font-style: var(--desktop-body-content-regular-font-style) !important;
+  font-weight: var(--desktop-body-content-regular-font-weight) !important;
+  letter-spacing: var(--desktop-body-content-regular-letter-spacing) !important;
+  line-height: var(--desktop-body-content-regular-line-height) !important;
+}

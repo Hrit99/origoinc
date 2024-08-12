@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:var(--desktop-body-body-3-semibold-font-weight),var(--desktop-body-body-3-regular-font-weight),var(--desktop-body-content-bold-font-weight),var(--desktop-body-content-regular-font-weight),600,var(--desktop-body-body-3-bold-font-weight),var(--desktop-body-body-2-regular-font-weight),var(--desktop-body-body-1-regular-font-weight),var(--desktop-body-content-semi-bold-font-weight),700|Aladin:400|Amita:400");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+      @font-face {
+        font-family: "Supply-Bold";
+        src: url("https://anima-uploads.s3.amazonaws.com/projects/65c8c97b102ffff5284bdaae/fonts/supply-bold.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "Expanse-Regular";
+        src: url("https://anima-uploads.s3.amazonaws.com/projects/60a0db9febca4dfe6f6dadd7/fonts/expanse.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "Supply-Regular";
+        src: url("https://anima-uploads.s3.amazonaws.com/5c53403920495e000abca8cb/Supply-Regular.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "Aeonik TRIAL-Bold";
+        src: url("https://anima-uploads.s3.amazonaws.com/5c782a00f4a384000b2aa65f/AeonikTRIAL-Bold.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "Aeonik TRIAL-Regular";
+        src: url("https://anima-uploads.s3.amazonaws.com/5c782a00f4a384000b2aa65f/AeonikTRIAL-Regular.otf")
+          format("opentype");
+      }
+
+      * {
+        -webkit-font-smoothing: antialiased;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0px;
+        height: 100%;
+      }
+      /* a blue color as a generic focus style */
+      button:focus-visible {
+        outline: 2px solid #4a90e2 !important;
+        outline: -webkit-focus-ring-color auto 5px !important;
+      }
+      a {
+        text-decoration: none;
+      }

@@ -1,0 +1,1 @@
+export { OurWorkCard } from "./OurWorkCard";

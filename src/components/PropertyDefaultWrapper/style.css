@@ -1,0 +1,70 @@
+.property-default-wrapper {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+}
+
+.property-default-wrapper .frame-4 {
+  height: 58.5px;
+  margin-bottom: -0.5px;
+  position: relative;
+  width: 9px;
+}
+
+.property-default-wrapper .frame-5 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: center;
+  margin-left: -8px;
+  padding: 16px 32px;
+  position: relative;
+  width: 200px;
+}
+
+.property-default-wrapper .let-s-talk-now-2 {
+  font-family: var(--desktop-body-body-3-bold-font-family);
+  font-size: var(--desktop-body-body-3-bold-font-size);
+  font-style: var(--desktop-body-body-3-bold-font-style);
+  font-weight: var(--desktop-body-body-3-bold-font-weight);
+  letter-spacing: var(--desktop-body-body-3-bold-letter-spacing);
+  line-height: var(--desktop-body-body-3-bold-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.property-default-wrapper .frame-6 {
+  height: 58.5px;
+  margin-bottom: -0.5px;
+  margin-left: -8px;
+  margin-right: -0.5px;
+  position: relative;
+  width: 9.5px;
+}
+
+.property-default-wrapper .property-1-0-black {
+  background-color: var(--styales-base-base-black-duplicate);
+}
+
+.property-default-wrapper .property-1-0-default {
+  background-color: var(--styales-primary-primary-duplicate);
+}
+
+.property-default-wrapper .frame-5.property-1-0-black .let-s-talk-now-2 {
+  color: var(--styales-base-base-white-duplicate);
+}
+
+.property-default-wrapper .frame-5.property-1-0-default .let-s-talk-now-2 {
+  color: var(--styales-base-base-white-duplicate);
+}
+
+.property-default-wrapper .frame-5.property-1-0-variant-4 .let-s-talk-now-2 {
+  color: var(--styales-base-base-black-duplicate);
+}
+
+.property-default-wrapper .frame-5.property-1-0-normal .let-s-talk-now-2 {
+  color: var(--styales-base-base-white-duplicate);
+}

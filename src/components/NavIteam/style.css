@@ -1,0 +1,47 @@
+.nav-iteam .div {
+  position: relative;
+}
+
+.nav-iteam .home {
+  color: #f57600;
+  font-family: "Aeonik TRIAL-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-iteam.active {
+  height: 19px;
+  width: 51px;
+}
+
+.nav-iteam.idle {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+}
+
+.nav-iteam.active .div {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  left: 3px;
+}
+
+.nav-iteam.idle .div {
+  color: #c1d2e6;
+  font-family: "Aeonik TRIAL-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}

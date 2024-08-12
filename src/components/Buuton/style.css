@@ -1,0 +1,72 @@
+.buuton {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+}
+
+.buuton .img {
+  height: 59px;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 9.5px;
+}
+
+.buuton .let-s-talk-now-wrapper {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: center;
+  margin-left: -8px;
+  padding: 16px 32px;
+  position: relative;
+  width: 200px;
+}
+
+.buuton .let-s-talk-now {
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buuton .frame-2 {
+  height: 59px;
+  margin-bottom: -0.5px;
+  margin-left: -8px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 9.5px;
+}
+
+.buuton .black {
+  background-color: var(--styales-base-base-black);
+}
+
+.buuton .default {
+  background-color: var(--styales-primary-primary);
+}
+
+.buuton .let-s-talk-now-wrapper.black .let-s-talk-now {
+  color: var(--styales-base-base-white);
+}
+
+.buuton .let-s-talk-now-wrapper.default .let-s-talk-now {
+  color: var(--styales-base-base-white);
+}
+
+.buuton .let-s-talk-now-wrapper.variant-4 .let-s-talk-now {
+  color: var(--styales-base-base-black);
+}
+
+.buuton .let-s-talk-now-wrapper.normal .let-s-talk-now {
+  color: var(--styales-base-base-white);
+}

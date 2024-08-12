@@ -1,0 +1,209 @@
+.our-work-card {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: 1224px;
+}
+
+.our-work-card .frame-11 {
+  background-color: var(--styales-primary-primary);
+  height: 616px;
+  overflow: hidden;
+  position: relative;
+  width: 612px;
+}
+
+.our-work-card .frame-12 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 592px;
+}
+
+.our-work-card .rectangle {
+  background-color: var(--styales-base-base-black);
+  height: 14px;
+  position: relative;
+  width: 14px;
+}
+
+.our-work-card .rectangle-2 {
+  border: 1px solid;
+  border-color: var(--styales-base-base-black);
+  height: 14px;
+  position: relative;
+  width: 14px;
+}
+
+.our-work-card .frame-13 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 10px;
+  position: absolute;
+  top: 592px;
+  width: 592px;
+}
+
+.our-work-card .image {
+  height: 501px;
+  left: -77px;
+  position: absolute;
+  top: 57px;
+  width: 766px;
+}
+
+.our-work-card .image-2 {
+  height: 501px;
+  left: 77px;
+  position: absolute;
+  top: 0;
+  width: 612px;
+}
+
+.our-work-card .frame-14 {
+  gap: 10px;
+  position: relative;
+}
+
+.our-work-card .frame-15 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.our-work-card .frame-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.our-work-card .element-2 {
+  align-self: stretch;
+  color: var(--styales-base-base-black);
+  font-family: "Supply-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.our-work-card .frame-17 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+  width: 100%;
+}
+
+.our-work-card .bebos-mobile {
+  align-self: stretch;
+  color: var(--styales-base-base-black);
+  font-family: "Supply-Medium", Helvetica;
+  font-size: 48px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.our-work-card .text-wrapper-8 {
+  align-self: stretch;
+  color: var(--styales-base-base-black);
+  font-family: var(--desktop-body-body-3-regular-font-family);
+  font-size: var(--desktop-body-body-3-regular-font-size);
+  font-style: var(--desktop-body-body-3-regular-font-style);
+  font-weight: var(--desktop-body-body-3-regular-font-weight);
+  letter-spacing: var(--desktop-body-body-3-regular-letter-spacing);
+  line-height: var(--desktop-body-body-3-regular-line-height);
+  position: relative;
+}
+
+.our-work-card .instance-node {
+  flex: 0 0 auto !important;
+}
+
+.our-work-card .buuton-2 {
+  height: 59px !important;
+  margin-left: -0.5px !important;
+  margin-top: -0.5px !important;
+  width: 9.5px !important;
+}
+
+.our-work-card .buuton-3 {
+  color: var(--styales-base-base-black) !important;
+  font-family: "Inter", Helvetica !important;
+  font-size: 16px !important;
+  font-style: unset !important;
+  font-weight: 600 !important;
+  letter-spacing: 0 !important;
+  line-height: 19.2px !important;
+  margin-left: -13.5px !important;
+  margin-right: -13.5px !important;
+}
+
+.our-work-card .buuton-4 {
+  height: 59px !important;
+  margin-top: -0.5px !important;
+}
+
+.our-work-card .group-7 {
+  height: 616px;
+  position: relative;
+  width: 609.5px;
+}
+
+.our-work-card .frame-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 48px;
+  position: absolute;
+  top: 161px;
+  width: 517px;
+}
+
+.our-work-card .buuton-5 {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  line-height: 19.2px !important;
+  margin-left: -13.5px !important;
+  margin-right: -13.5px !important;
+}
+
+.our-work-card .property-1-0-hover {
+  align-items: center;
+  background-color: var(--styales-primary-primary300);
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.our-work-card .property-1-0-normal {
+  align-items: flex-start;
+  background-color: var(--styales-primary-primary100);
+  display: flex;
+  flex-direction: column;
+  height: 616px;
+  justify-content: center;
+  padding: 161px 48px;
+  width: 612px;
+}

@@ -1,0 +1,105 @@
+.call-to-action {
+  align-items: center;
+  background-color: var(--styales-primary-primary);
+  display: flex;
+  flex-direction: column;
+  height: 410px;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
+  width: 285px;
+}
+
+.call-to-action .text-wrapper-5 {
+  align-self: stretch;
+  color: var(--styales-base-base-black);
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.call-to-action .frame-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.call-to-action .vector-6-instance {
+  height: 58px !important;
+  position: relative !important;
+  width: 58px !important;
+}
+
+.call-to-action .frame-10 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.call-to-action .text-wrapper-6 {
+  align-self: stretch;
+  color: var(--styales-base-base-black);
+  font-family: var(--desktop-headings-heading-6-font-family);
+  font-size: var(--desktop-headings-heading-6-font-size);
+  font-style: var(--desktop-headings-heading-6-font-style);
+  font-weight: var(--desktop-headings-heading-6-font-weight);
+  height: 58px;
+  letter-spacing: var(--desktop-headings-heading-6-letter-spacing);
+  line-height: var(--desktop-headings-heading-6-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.call-to-action .text-wrapper-7 {
+  color: var(--styales-base-base-black);
+  font-family: var(--desktop-body-content-regular-font-family);
+  font-size: var(--desktop-body-content-regular-font-size);
+  font-style: var(--desktop-body-content-regular-font-style);
+  font-weight: var(--desktop-body-content-regular-font-weight);
+  letter-spacing: var(--desktop-body-content-regular-letter-spacing);
+  line-height: var(--desktop-body-content-regular-line-height);
+  position: relative;
+  text-align: center;
+  width: 206px;
+}
+
+.call-to-action .buuton-instance {
+  background-color: var(--styales-base-base-black) !important;
+}
+
+.call-to-action .group-2 {
+  left: 34px !important;
+}
+
+.call-to-action .group-3 {
+  color: var(--styales-base-base-white) !important;
+}
+
+.call-to-action .group-4 {
+  height: 10px !important;
+  width: 10px !important;
+}
+
+.call-to-action .group-5 {
+  width: 10px !important;
+}
+
+.call-to-action .group-6 {
+  height: 10px !important;
+}
